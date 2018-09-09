@@ -1,0 +1,15 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "discordBot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js-commando": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "azn.d3v",
+  "license": "ISC"
+}
